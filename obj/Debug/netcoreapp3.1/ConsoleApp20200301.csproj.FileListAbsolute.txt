@@ -1,0 +1,13 @@
+d:\csharpProject\ConsoleApp20200301\bin\Debug\netcoreapp3.1\ConsoleApp20200301.exe
+D:\csharpProject\ConsoleApp20200301\bin\Debug\netcoreapp3.1\ConsoleApp20200301.deps.json
+D:\csharpProject\ConsoleApp20200301\bin\Debug\netcoreapp3.1\ConsoleApp20200301.runtimeconfig.json
+D:\csharpProject\ConsoleApp20200301\bin\Debug\netcoreapp3.1\ConsoleApp20200301.runtimeconfig.dev.json
+d:\csharpProject\ConsoleApp20200301\bin\Debug\netcoreapp3.1\ConsoleApp20200301.dll
+d:\csharpProject\ConsoleApp20200301\bin\Debug\netcoreapp3.1\ConsoleApp20200301.pdb
+d:\csharpProject\ConsoleApp20200301\obj\Debug\netcoreapp3.1\ConsoleApp20200301.csprojAssemblyReference.cache
+d:\csharpProject\ConsoleApp20200301\obj\Debug\netcoreapp3.1\ConsoleApp20200301.AssemblyInfoInputs.cache
+d:\csharpProject\ConsoleApp20200301\obj\Debug\netcoreapp3.1\ConsoleApp20200301.AssemblyInfo.cs
+d:\csharpProject\ConsoleApp20200301\obj\Debug\netcoreapp3.1\ConsoleApp20200301.dll
+d:\csharpProject\ConsoleApp20200301\obj\Debug\netcoreapp3.1\ConsoleApp20200301.pdb
+D:\csharpProject\ConsoleApp20200301\obj\Debug\netcoreapp3.1\ConsoleApp20200301.csproj.CoreCompileInputs.cache
+D:\csharpProject\ConsoleApp20200301\obj\Debug\netcoreapp3.1\ConsoleApp20200301.genruntimeconfig.cache
